@@ -34,7 +34,6 @@ Pour attester de mes compétences, j’ai structuré ce dépôt en plusieurs par
 - `/import_nettoyage`  
 - `/requêtes_spatiales`  
 - `/projections`  
-- `/services_web`  
 - `README.md` (ce document)  
 
 ---
